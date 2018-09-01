@@ -1,0 +1,12 @@
+1. Freecodecamp An inital resources to revamp lot of basi things and to get an idea
+2. scotch.io A blogging kind of platform can be useful for some tutorials
+3. Medium is a powerful resource of lot of blogs with detailed explanations and many interesting topics
+4. Basic Syntax : StackOverFlow, w3schools, tutorialspoint
+6. Udemy (Kind of interesting courses in the domain of interest pretty cheap $10)
+7. Coursera (Opt in course, kind of enroll for free and university offfered courses, can pay for certications $50 -$100)
+8. Udacity (Other available online courses)
+9. Free Website Devs to know interesting designs
+10. Wix.com can create free website with different domain options
+11. Heroku deployment platform, free hosting, try for inital, kind of static pages, but less resources to database
+12. OSU (CASS, CS CLubs (App, Functional Programming, Artificial Intelligence, Cyber Security, other exteranl POI), Free Software (Office 365, Microsft Imagine, Azure)).
+13. List of Bookmarked github repos (very handy)
