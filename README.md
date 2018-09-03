@@ -34,6 +34,8 @@ An effective usage of available online resources to the incoming grads in the fi
    l. Go to /etc/nginx/sites-enabled folder. add the certicate path, key, server name, ssl in the default file.
    m. allow https all through the firewall (nfw) 
    n. if using node server setup a reverse proxy server by adding a location attribute with a route (/) and running server (:3000). Restart       the nginx server after checking syntax. 
+   
+   list 
 
 
 
